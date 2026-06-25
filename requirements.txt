@@ -8,3 +8,4 @@ streamlit-mic-recorder
 PyPDF2
 faiss-cpu
 numpy
+sentence-transformers
