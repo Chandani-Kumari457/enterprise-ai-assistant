@@ -1,4 +1,7 @@
 # Enterprise AI Assistant
+## Live Demo
+
+https://enterprise-ai-assistant-fxrmobmnewxgvvzhmlw9am.streamlit.app/
 
 ## Overview
 
